@@ -1,0 +1,85 @@
+body {
+				font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+				font-size: 14px;
+				line-height: 1.4;
+				color: #333333;
+				background-color: #FFFFFF;
+			}
+			
+			a {
+				text-decoration: none;
+				color: #337AB7;
+			}
+		
+			#garyBg {
+				width: 1080px;
+				margin: 0 auto;
+				background-color: #EEEEEE;
+				padding: 30px
+			}
+			
+			h1 {
+				font-size: 3em;
+				text-align: center;
+			}
+			h2 {
+				text-align: center;
+				color: rgba(0, 0, 0, 0.75);
+			}
+			
+			#pictureBg {
+				width: 1030px;
+				margin: 0 auto;
+				border: 1px solid #ddd;
+				border-radius: 4px;
+				padding-bottom: 10px;
+				background-color: #FFFFFF;
+				
+			}
+			
+			img {
+				text-align: center;
+			}
+			
+			.pictBott {
+				font-size: 1em;
+				text-align: center;
+			}
+			
+			.pict {
+				margin: 0 auto; 
+				width: 1024px;
+			}
+			
+			.infor {
+				width: 700px;
+				margin: 0 auto;
+			}
+			
+			.infor li {
+				line-height: 1.5em;
+				color: rgba(64, 64, 64, 0.95);
+				
+			}
+			
+			.infor h2{
+				font-size: 1.5em;
+				text-align: left;
+				<!-- margin: 20px, 0; -->
+			}
+			
+			strong {
+				color: rgba(0, 0, 0, 1);
+			}
+			
+			.hr1 {
+				width: 1140px;
+				margin: 0 auto;
+				text-align: center;
+			}
+		
+			hr {
+				width: 1140px;
+				margin: 30px auto;
+				border: 1px solid #EEE;
+			}
